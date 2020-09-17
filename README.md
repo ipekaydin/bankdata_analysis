@@ -1,0 +1,2 @@
+# bankdata_analysis
+Every year banks give credit to people depending on their needs. While doing this, their main concern is whether the customer may pay the loan back or not. In this study, we examined the data of a Portuguese bank by looking at the relationships of these indicators with each other and their impact on giving loans. To improve their decision to give loans, banks try to reach customers’ socio-demographic data and get useful observations by inferring them. 
